@@ -44,3 +44,5 @@ Credits:
 	Earth Mesh
 
   	https://free3d.com/3d-model/earth-planet-75898.html
+	
+Mixamo:  Due to terms of use, we've had to remove all animations before uploading the source files.  The animations are in the downloadable and playable version of the game on itch.io, but not here.  You can find the animations we've used at mixamo.com.  Thanks!
