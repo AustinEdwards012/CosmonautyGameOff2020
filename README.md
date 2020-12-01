@@ -1,6 +1,8 @@
 # Cosmonauty GameOff2020
 Game Jam submission for GameOff2020!
 
+https://legendarynoobguy.itch.io/cosmonauty
+
 Team:
 
 Chris Schickler - Code (UE4 Blueprint), Compiler, Systems Designer, Sound Implementation, AI, UI/UX Design
