@@ -19,28 +19,28 @@ Kate Jones - Graphic Designer, UI Illustrator,  Animator
 
 Credits:
 
-Fonts from 1001fonts.com
+	Fonts from 1001fonts.com
 
 	Supercomputer by Disaster Fonts
   
 	Propaganda Font by Matthew Welch
 
-Animations by Mixamo
+	Animations by Mixamo
 
 	Enemy Cosmonauts - All animations done by Mixamo
   
 	Werewolf - All animations done by Mixamo
 
-Stars Texture
+	Stars Texture
 
 	https://www.deviantart.com/ivycomb/art/100-Royalty-Free-Stars-Texture-522155007
   
 	100% royalty free and open source
 
-Moon Mesh
+	Moon Mesh
 
 	https://free3d.com/3d-model/earth-planet-75898.html 
 
-Earth Mesh
+	Earth Mesh
 
-  https://free3d.com/3d-model/earth-planet-75898.html
+  	https://free3d.com/3d-model/earth-planet-75898.html
